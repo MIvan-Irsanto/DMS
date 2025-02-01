@@ -1,0 +1,253 @@
+.forminator-ui.forminator-poll#forminator-module-833 {
+		border-color: rgba(0,0,0,0);
+		background-color: rgba(255,255,255,0);
+		box-shadow: none;
+		-moz-box-shadow: none;
+		-webkit-box-shadow: none;
+	}
+
+
+	.forminator-ui.forminator-poll#forminator-module-833 {
+		padding-top: 0;
+		padding-right: 0;
+		padding-bottom: 0;
+		padding-left: 0;
+	}
+
+
+	#forminator-module-833 {
+		border-width: 0;
+		border-style: none;
+		border-radius: 0;
+		-moz-border-radius: 0;
+		-webkit-border-radius: 0;
+	}
+
+	#forminator-module-833 .forminator-radio:not(.forminator-radio-inline) {
+					margin: 20px 0 10px;
+			}
+
+	#forminator-module-833 .forminator-radio:not(.forminator-radio-inline):first-of-type {
+					margin-top: 20px;
+			}
+
+	#forminator-module-833 .forminator-radio:not(.forminator-radio-inline):first-child {
+		margin-top: 0;
+	}
+
+	#forminator-module-833 .forminator-radio:not(.forminator-radio-inline):last-of-type {
+					margin-bottom: 10px;
+			}
+
+	#forminator-module-833 .forminator-radio:not(.forminator-radio-inline):last-child {
+		margin-bottom: 0;
+	}
+
+	.forminator-ui.forminator-poll#forminator-module-833 .forminator-chart-legend li {
+		color: #777771;
+	}
+
+.forminator-ui#forminator-module-833 .forminator-poll-footer {
+	margin-top: 30px;
+}
+	.forminator-ui#forminator-module-833 .forminator-question {
+		color: #333333;
+	}
+
+.forminator-ui#forminator-module-833 .forminator-question {
+	font-size: 15px;
+	font-family: inherit;
+	font-weight: 600;
+}
+	.forminator-ui#forminator-module-833 .forminator-description {
+		color: #4D4D4D;
+	}
+
+.forminator-ui#forminator-module-833 .forminator-description {
+	font-size: 13px;
+	font-family: inherit;
+	font-weight: 400;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-radio {
+		color: #000000;
+	}
+
+			.forminator-ui#forminator-module-833.forminator-design--default .forminator-radio .forminator-radio-bullet {
+			border-color: #777771;
+			background-color: #EDEDED;
+		}
+	
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-radio .forminator-radio-bullet:before {
+		background-color: #17A8E3;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-radio input:checked + .forminator-radio-bullet {
+		border-color: #17A8E3;
+		background-color: #EDEDED;
+	}
+
+	
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-has_error .forminator-radio .forminator-radio-bullet {
+		border-color: #E04562;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-radio span:not([aria-hidden]) {
+	font-size: 16px;
+	font-family: inherit;
+	font-weight: 400;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input,
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input:hover,
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input:focus,
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input:active {
+		border-color: #777771;
+		background-color: #EDEDED;
+		color: #000000;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input::placeholder {
+		color: #888888;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input:-moz-placeholder {
+		color: #888888;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input::-moz-placeholder {
+		color: #888888;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input:-ms-input-placeholder {
+		color: #888888;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input::-webkit-input-placeholder {
+		color: #888888;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-is_hover .forminator-input {
+		border-color: #17A8E3;
+		background-color: #E6E6E6;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-is_active .forminator-input {
+		border-color: #17A8E3;
+		background-color: #E6E6E6;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-has_error .forminator-input {
+		border-color: #E04562;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-input-with-icon [class*="forminator-icon-"] {
+		color: #777771;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-is_active .forminator-input-with-icon [class*="forminator-icon-"] {
+		color: #17A8E3;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-input {
+	font-size: 16px;
+	font-family: inherit;
+	font-weight: 400;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-submit {
+		background-color: #17A8E3;
+		color: #FFFFFF;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-submit:hover {
+		background-color: #008FCA;
+		color: #FFFFFF;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-submit:active {
+		background-color: #008FCA;
+		color: #FFFFFF;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-submit {
+	font-size: 14px;
+	font-family: inherit;
+	font-weight: 500;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-back {
+		background-color: #17A8E3;
+		color: #FFFFFF;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-back:hover {
+		background-color: #008FCA;
+		color: #FFFFFF;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-back:active {
+		background-color: #008FCA;
+		color: #FFFFFF;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-button-back {
+	font-size: 14px;
+	font-family: inherit;
+	font-weight: 500;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-link {
+		color: #17A8E3;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-link:visited {
+		color: #17A8E3;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-link:hover {
+		color: #008FCA;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-link:active {
+		color: #008FCA;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-link {
+	font-size: 13px;
+	font-family: inherit;
+	font-weight: 500;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-note {
+		color: #333333;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-note {
+	font-size: 13px;
+	font-family: inherit;
+	font-weight: 400;
+}
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-error {
+		background-color: #F9E4E8;
+		box-shadow: inset 2px 0 0 0 #E04562;
+		-moz-box-shadow: inset 2px 0 0 0 #E04562;
+		-webkit-box-shadow: inset 2px 0 0 0 #E04562;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-error,
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-error p {
+		color: #333333;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-success {
+		background-color: #BCEEE6;
+		box-shadow: inset 2px 0 0 0 #1ABCA1;
+		-moz-box-shadow: inset 2px 0 0 0 #1ABCA1;
+		-webkit-box-shadow: inset 2px 0 0 0 #1ABCA1;
+	}
+
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-success,
+	.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message.forminator-success p {
+		color: #333333;
+	}
+
+.forminator-ui#forminator-module-833.forminator-design--default .forminator-response-message p {
+	font-size: 15px;
+	font-family: inherit;
+	font-weight: 400;
+}
